@@ -1,0 +1,7 @@
+{
+  "name": " Resume Builder",
+  "description": "A high-end professional CV/Resume builder ",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
